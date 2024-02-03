@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "*.yaml",
+        "https://json.schemastore.org/github-workflow.json": "file:///Users/guptar2/Personal/Study/DevOps/GitHubAction/Practice/hello-world-repo/hello-world.yml"
+    }
+}
